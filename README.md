@@ -2,7 +2,7 @@
 
 Nesse desafio, o desafio é fazer com que uma as minhas redes sociais carreguem na tela de uma imagem de um celular, clicando em ícones interativos
 
-<img src="#" alt="Gif do Projeto">
+<img src="projeto-social.gif" alt="Gif do Projeto">
 
 ## Tecnologias utilizadas:
 
